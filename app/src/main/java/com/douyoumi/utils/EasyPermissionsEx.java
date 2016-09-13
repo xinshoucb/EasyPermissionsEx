@@ -37,7 +37,7 @@ import java.util.List;
  * Utility to request and check System permissions for apps targeting Android M (API >= 23).
  * The permissions helper class is on the basis of EasyPermissions(@link https://github.com/googlesamples/easypermissions).
  *
- * Author: douyoumi
+ * Author: douyoumi (https://github.com/xinshoucb/EasyPermissionsEx/)
  * Date: 2016-09-13
  * Email: xinshou.cb@gmail.com
  */
